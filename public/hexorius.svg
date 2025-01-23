@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Purple hexagon -->
+  <path
+    d="M50 10 
+       L85 30
+       L85 70
+       L50 90
+       L15 70
+       L15 30
+       Z"
+    fill="#8A2BE2"
+    stroke="#6B238E"
+    stroke-width="2"
+  />
+  
+  <!-- Subtle highlight for depth -->
+  <path
+    d="M50 10 
+       L85 30
+       L50 50
+       L15 30
+       Z"
+    fill="#9D3CF3"
+    opacity="0.3"
+  />
+</svg>
